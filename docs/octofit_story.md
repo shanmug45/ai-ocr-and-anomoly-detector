@@ -2,18 +2,18 @@
 
 ## OctoFit Tracker application story for Mergington High School
 
-Paul Octo has been a physical education teacher at Mergington High School for over 8 years. Despite his enthusiasm and creative approach to gym class, he's been increasingly concerned about students' physical activity declining once they leave school grounds. Many students admitted they rarely exercised outside of the required PE classes.
-After attending a professional development conference on "Technology Integration in Physical Education," Paul became inspired to create a solution. He wanted something that would:
+Paul Octo has been a passport office document verification case workder for over 8 years. Despite his enthusiasm and creative approach to document validation , he's been increasingly concerned about farudulant documents and incorrect details by applicants while filling up the application.  
 
-1. Make fitness tracking fun and engaging
-2. Create positive peer pressure through friendly competition
-3. Allow him to monitor student progress remotely
-4. Provide personalized guidance based on individual fitness levels
+Paul  inspired to create a solution to overcome the problem. He wanted something that would:
 
-## The Birth of OctoFit Tracker
+1. Make document validation reliable and easy. 
+2. Allow him to validate the application details occuracy against data available in documents.
+3. Provide confidence score by comparing the data from documents and application. 
 
-Paul initially sketched his idea on a notepad during lunch breaks. He envisioned an app where students could log workouts, earn achievement badges, and compete in monthly fitness challenges. However, as a PE teacher with only basic coding knowledge, the technical aspects seemed daunting.
-That's when he approached Jessica Cat, the head of Mergington High's IT department. Jessica recommended basing the app on the Monafit Tracker developed by Mona High School, which was documented in `docs/mona-high-school-fitness-tracker.md`. She saw potential in adapting the Monafit Tracker's structure and features to meet Mergington High School's needs.
+## The Birth of AI OCR Anomoly Detector
+
+Paul initially sketched his idea on a notepad during lunch breaks. He envisioned an app where case workder could upload case documents, earn case will be assigned unique case id,as a case workder with only basic coding knowledge, the technical aspects seemed daunting.
+That's when he approached Jessica Cat, the head of Mergington High's IT department. Jessica recommended basing the passport case validation application, which was documented in `docs/mona-high-school-fitness-tracker.md`. She saw potential in adapting the Monafit Tracker's structure and features to meet Mergington High School's needs.
 
 ### Technical Planning Phase
 
