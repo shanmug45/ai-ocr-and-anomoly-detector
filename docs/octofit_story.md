@@ -1,6 +1,6 @@
-# Building a Fitness App with GitHub Copilot agent mode for Mergington High School
+# Building a Passport office case validation with GitHub Copilot agent mode for case workers
 
-## OctoFit Tracker application story for Mergington High School
+## Passport office case validation application story for case workers
 
 Paul Octo has been a passport office document verification case workder for over 8 years. Despite his enthusiasm and creative approach to document validation , he's been increasingly concerned about farudulant documents and incorrect details by applicants while filling up the application.  
 
